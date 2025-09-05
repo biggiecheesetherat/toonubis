@@ -6,11 +6,10 @@
 
 ![enbyware](https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C)
 ![biware](https://pride-badges.pony.workers.dev/static/v1?label=biware&labelColor=%23555&stripeWidth=8&stripeColors=D60270%2C9B4F96%2C0038A8)
-![GitHub Issues or Pull Requests by label](https://img.shields.io/github/issues/TecharoHQ/anubis)
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/TecharoHQ/anubis)
-![language count](https://img.shields.io/github/languages/count/TecharoHQ/anubis)
-![repo size](https://img.shields.io/github/repo-size/TecharoHQ/anubis)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/Xe)](https://github.com/sponsors/Xe)
+![GitHub Issues or Pull Requests by label](https://img.shields.io/github/issues/biggiecheesetherat/toonubis)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/biggiecheesetherat/toonubis)
+![language count](https://img.shields.io/github/languages/count/biggiecheesetherat/toonubis)
+![repo size](https://img.shields.io/github/repo-size/biggiecheesetherat/toonubis)
 
 ## Sponsors
 
