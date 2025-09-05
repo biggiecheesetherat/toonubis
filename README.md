@@ -1,7 +1,7 @@
-# Anubis
+# Toonubis
 
 <center>
-<img width=256 src="./web/static/img/happy.webp" alt="A smiling chibi dark-skinned anthro jackal with brown hair and tall ears looking victorious with a thumbs-up" />
+<img width=256 src="./web/static/img/happy.webp" alt="A black and white stickman-like cartoon character that is giving a thumbs up." />
 </center>
 
 ![enbyware](https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C)
@@ -13,7 +13,7 @@
 
 ## Sponsors
 
-Anubis is brought to you by sponsors and donors like:
+Anubis (Not the fork) is brought to you by sponsors and donors like:
 
 ### Diamond Tier
 
@@ -58,7 +58,9 @@ Anubis is brought to you by sponsors and donors like:
 
 ## Overview
 
-Anubis is a Web AI Firewall Utility that [weighs the soul of your connection](https://en.wikipedia.org/wiki/Weighing_of_souls) using one or more challenges in order to protect upstream resources from scraper bots.
+Toonubis is a reskin of Anubis, a Web AI Firewall Utility that [weighs the soul of your connection](https://en.wikipedia.org/wiki/Weighing_of_souls) using one or more challenges in order to protect upstream resources from scraper bots.
+
+Toonubis also has QoL(Quality of Life) changes that may or may not help you.
 
 This program is designed to help protect the small internet from the endless storm of requests that flood in from AI companies. Anubis is as lightweight as possible to ensure that everyone can afford to protect the communities closest to them.
 
@@ -66,13 +68,17 @@ Anubis is a bit of a nuclear response. This will result in your website being bl
 
 In most cases, you should not need this and can probably get by using Cloudflare to protect a given origin. However, for circumstances where you can't or won't use Cloudflare, Anubis is there for you.
 
-If you want to try this out, connect to [anubis.techaro.lol](https://anubis.techaro.lol).
+If you want to try out the original Anubis, head over to [anubis.techaro.lol](https://anubis.techaro.lol).
+
+If you want to try this fork, a hosted version isn't available and you will have to host it yourself.
 
 ## Support
 
-If you run into any issues running Anubis, please [open an issue](https://github.com/TecharoHQ/anubis/issues/new?template=Blank+issue). Please include all the information I would need to diagnose your issue.
+If you run into any issues with features added by Toonubis, contact Themeatly2 on Discord. For any other issues, please [open an issue](https://github.com/TecharoHQ/anubis/issues/new?template=Blank+issue) on the Anubis repo. Please include all the information I would need to diagnose your issue.
 
-For live chat, please join the [Patreon](https://patreon.com/cadey) and ask in the Patron discord in the channel `#anubis`.
+For Anubis' live chat, please join the [Patreon](https://patreon.com/cadey) and ask in the Patron discord in the channel `#anubis`. For Toonubis' live chat, join Themeatly2's discord server and get the Toonubis role to see the channels.
+
+# The rest is Anubis statistics and is not Toonubis'
 
 ## Star History
 
